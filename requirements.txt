@@ -1,0 +1,4 @@
+flask-script==2.0.6
+mitmproxy==0.18.3
+pymysql==0.8.0
+datetime
